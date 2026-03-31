@@ -102,7 +102,7 @@
 <tr>
     <td align="center">
       <b>40 Pin Flachkabel Type A 20cm</b><br />
-      <img src="https://github.com/user-attachments/assets/d2ebecfc-2f8e-4e11-9817-090dc697a978" width="300"/>
+      <img src="https://github.com/user-attachments/assets/d2ebecfc-2f8e-4e11-9817-090dc697a978" width="160"/>
     </td>
     <td align="center">
       <b>PCB-Board-Front</b><br />
