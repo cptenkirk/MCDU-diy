@@ -1,4 +1,4 @@
-## 📦 Vollständige Komponenten-Liste (Hardware-BOM)
+## 📦 Komponenten-Liste (Hardware-BOM) wahrscheinlich noch nicht Vollständig!!
 
 <table>
   <!-- Zeile 1: Computing & Display -->
