@@ -1,4 +1,4 @@
-Um den Gerber zu betrachten, am besten eine Anwendung nutzen zum betrachten, z.B. wie den EasyEDA:
+Um den Gerber zu betrachten, am besten eine Anwendung wie z.B. den EasyEDA:
 
 https://passport.easyeda.com/#/login
 
