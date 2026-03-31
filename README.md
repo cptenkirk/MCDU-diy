@@ -58,7 +58,7 @@ Für weitere mögliche Bauteile seht ihr in der Bildergalerie.
 ## 📂 Ordnerstruktur (Geplant)
 *   `/STL-3MF`: Enthält STL- und Design-Dateien.
 *   `/Gerber`: PCB-BOARD.
-*   `/Media`: Fotos von Baufortschritten und Baukomponenten.
+*   `/Media`: Fotos von Baufortschritt und Baukomponenten.
 
 ---
 
