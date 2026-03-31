@@ -97,7 +97,7 @@
       <sub>Nimmt nicht das gute qualitative Filament für das Prototyping, außer ihr habt keine Wahl.</sub>
     </td>
   </tr>
-</table>
+
 
 <!-- Zeile 6 -->
 <tr>
