@@ -76,7 +76,7 @@
       <img src="https://github.com/user-attachments/assets/c8849a42-8ad3-4466-90a9-c1151cdc4d2c" width="160" />
     </td>
     <td align="center">
-      <b>40-Pin Flachkabel</b><br />
+      <b>40-Pin Flachkabel Kopplung</b><br />
       <img src="https://github.com/user-attachments/assets/2feb99a9-54e3-4e62-9fea-4700150d45e8" width="160" />
     </td>
   </tr>
@@ -98,7 +98,26 @@
     </td>
   </tr>
 </table>
+<!-- Zeile 6 -->
+<tr>
+    <td align="center">
+      <b>40 Pin Flachkabel Type A 20cm</b><br />
+      <img src="https://github.com/user-attachments/assets/d2ebecfc-2f8e-4e11-9817-090dc697a978" width="300"/>
+    </td>
+    <td align="center">
+      <b>PCB-Board-Front</b><br />
+      <img src="https://github.com/user-attachments/assets/fed12cac-0380-40f1-b7f4-430d322b0668" width="300" />
+    </td>
+    <td align="center" colspan="2">
+      <b>PCB-Board-Back</b><br />
+      <img src="https://github.com/user-attachments/assets/cfedf036-4ec8-4e54-ab2c-4ed31162b85e" width="300" /><br />
+      <sub>Nimmt nicht das gute qualitative Filament für das Prototyping, außer ihr habt keine Wahl.</sub>
+    </td>
+  </tr>
+</table>
 
----
+
+
+
 
 
