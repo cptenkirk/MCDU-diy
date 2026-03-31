@@ -36,7 +36,7 @@ Bevor du startest, solltest du folgendes einplanen:
 
 ---
 
-## 📦 Komponenten (Stückliste / BOM)
+## 📦 Die Wichtigsten Komponenten in diesem Projekt!
 *Die Liste wird laufend erweitert.*
 
 
