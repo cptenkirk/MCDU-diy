@@ -13,6 +13,8 @@ In diesem Repository dokumentiere ich den Bau einer **FMC/CDU**, die maßgeblich
 
 Mein Ziel ist es, das Projekt genau zu analysieren und ein **eigenes Design** zu konstruieren, anstatt es nur 1:1 nachzubauen.
 
+Eine weitere empfohlene Community-Seite www.oshwlab.com 
+
 ---
 
 ## 🚧 Aktueller Status
@@ -42,7 +44,7 @@ Bevor du startest, solltest du folgendes einplanen:
 | Bauteil | Status | Anmerkung |
 | :--- | :--- | :--- |
 | **Raspberry Pi 3** | ✅ Vorhanden | Das Herzstück für Display und Logik |
-| **Display** | ❓ In Planung | Details folgen. Dies ist das kritische Teil; es entscheidet maßgeblich über das 3D-Druck-Design. |
+| **Display** | ❓ In Planung | Details folgen. Dies ist das kritische Teil; es entscheidet maßgeblich über das 3D-Druck-Design.  |
 | **Tasten-Matrix** | ⏳ In Planung | Details folgen (Taktile Schalter & Custom Caps) |
 
 
@@ -53,6 +55,10 @@ Bevor du startest, solltest du folgendes einplanen:
 *   `/Electronics`: Schaltpläne und Pin-Belegung.
 *   `/Software`: Konfigurationsdateien für den Pi.
 *   `/Media`: Fotos vom Baufortschritt.
+
+---
+
+
 
 ---
 
