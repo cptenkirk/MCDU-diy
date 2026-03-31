@@ -44,7 +44,7 @@ Bevor du startest, solltest du folgendes einplanen:
 | Bauteil | Status | Anmerkung, Risiken und Beschreibung |
 | :--- | :--- | :--- |
 | **Raspberry Pi 3** | ✅ Vorhanden | Das Herzstück für Display und Logik |
-| **Display** | ✅ Empfohlen max 5 Zoll IPS | Details folgen. Dies ist das kritische Teil; es entscheidet maßgeblich über das 3D-Druck-Design. Beispiel: https://de.aliexpress.com/item/1005010562121937.html?spm=a2g0o.order_list.order_list_main.126.63c55c5fbFeYdC&gatewayAdapt=glo2deu
+| **Display** | ✅ Empfohlen max 5 Zoll IPS | Details folgen. Dies ist eines der kritischen Teilen; es entscheidet maßgeblich über das 3D-Druck-Design. Beispiel: https://de.aliexpress.com/item/1005010562121937.html?spm=a2g0o.order_list.order_list_main.126.63c55c5fbFeYdC&gatewayAdapt=glo2deu
 | **Tasten-Matrix** | ✅ Taktile Schalter mit LED | Auch kritisch, Button-Größe muss wahrscheinlich angepasst werden im CAD-Programm https://de.aliexpress.com/item/1005008121388807.html?spm=a2g0o.order_list.order_list_main.90.63c55c5fbFeYdC&gatewayAdapt=glo2deu | 
 | STL-Datein | ✅ Unten unter Downloads | Die genaue Maße wird zurzeit entwickelt, in den Downloads findet ihr die Vorgänger-Datein |
 | Gerber-Daten | ✅ Unten unter Downloads | Die PCB-Boards müssen von Leiterplattenherstellern produziert werden z.B. bei https://jlcpcb.com/ (max 5 Stück werden hergestellt, für ein Board machen sie keine Produktion) |
