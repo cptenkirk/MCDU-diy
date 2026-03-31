@@ -18,7 +18,7 @@ Mein Ziel ist es, das Projekt genau zu analysieren und ein **eigenes Design** zu
 ## 🚧 Aktueller Status
 - [x] Recherche & Quellenanalyse (Shahada Abubakar Blog)
 - [x] Auswahl der Hardware-Basis (Raspberry Pi 3)
-- [x] MCDU PCB-Board
+- [x] MCDU PCB-Board Hergestellt von https://jlcpcb.com/
 - [x] Konstruktion der ersten Gehäuseteile (CAD)
 - [ ] Prototyping der Tastenmechanik
 - [ ] Erstellung der finalen Einkaufsliste
