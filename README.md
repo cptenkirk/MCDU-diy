@@ -49,6 +49,8 @@ Bevor du startest, solltest du folgendes einplanen:
 | STL-Datein | ✅ Unten unter Downloads | Die genaue Maße wird zurzeit entwickelt, in den Downloads findet ihr die Vorgänger-Datein |
 | Gerber-Daten | ✅ Unten unter Downloads | Die PCB-Boards müssen von Leiterplattenherstellern produziert werden z.B. bei https://jlcpcb.com/ (max 5 Stück werden hergestellt, für ein Board machen sie keine Produktion) |
 
+Für weitere mögliche Bauteile seht ihr in der Bildergalerie.
+
 
 
 ---
