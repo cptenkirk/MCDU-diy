@@ -56,9 +56,8 @@ Für weitere mögliche Bauteile seht ihr in der Bildergalerie.
 ---
 
 ## 📂 Ordnerstruktur (Geplant)
-*   `/CAD`: Enthält STL- und Design-Dateien.
-*   `/Electronics`: Schaltpläne und Pin-Belegung.
-*   `/Software`: Konfigurationsdateien für den Pi.
+*   `/STL-3MF`: Enthält STL- und Design-Dateien.
+*   `/Gerber`: PCB-BOARD.
 *   `/Media`: Fotos vom Baufortschritt.
 
 ---
