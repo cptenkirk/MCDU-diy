@@ -94,7 +94,7 @@
     <td align="center" colspan="2">
       <b>Case-Prototype (Final)</b><br />
       <img src="https://github.com/user-attachments/assets/9a844717-70eb-495f-b383-5f31772af3e0" width="300" /><br />
-      <sub>Zusammenführung aller Komponenten</sub>
+      <sub>Nimmt nicht das gute qualitative Filament für das Prototyping, außer ihr habt keine Wahl.</sub>
     </td>
   </tr>
 </table>
