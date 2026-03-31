@@ -2,6 +2,8 @@ Um den Gerber zu betrachten, am besten eine Anwendung nutzen zum betrachten, z.B
 
 https://passport.easyeda.com/#/login
 
-Für die Manufaktur geht auf:
+Für die Herstellung geht auf:
 
 [jlcpcb.com](https://jlcpcb.com/)
+
+Standartmäßig werden 5 Boards hergestellt, darunter geht es nicht.
