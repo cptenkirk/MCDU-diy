@@ -10,6 +10,10 @@ In diesem Repository dokumentiere ich den Bau einer **FMC/CDU**, die maßgeblich
 👉 **Original-Projekt:** [Shahada Abubakar's Blog](https://blog.shahada.abubakar.net/)
 
 > **Wichtiger Hinweis:** Bitte habt Respekt vor Shahadas intensiver Arbeit. Erwähnt ihn unbedingt, wenn ihr von seinem Wissen profitiert oder dieses Projekt präsentieren wollt.
+>
+> <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d4d782d8-da67-484d-93dd-e8a3e1c65f99" />
+
+
 
 Mein Ziel ist es, das Projekt genau zu analysieren und ein **eigenes Design** zu konstruieren, anstatt es nur 1:1 nachzubauen.
 
