@@ -44,7 +44,7 @@ Bevor du startest, solltest du folgendes einplanen:
 | Bauteil | Status | Anmerkung |
 | :--- | :--- | :--- |
 | **Raspberry Pi 3** | ✅ Vorhanden | Das Herzstück für Display und Logik |
-| **Display** | ❓ In Planung | Details folgen. Dies ist das kritische Teil; es entscheidet maßgeblich über das 3D-Druck-Design.  |
+| **Display** | Empfohlen 5 Zoll IPS | Details folgen. Dies ist das kritische Teil; es entscheidet maßgeblich über das 3D-Druck-Design.  |
 | **Tasten-Matrix** | ⏳ In Planung | Details folgen (Taktile Schalter & Custom Caps) |
 
 
