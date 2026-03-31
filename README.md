@@ -49,7 +49,7 @@ Bevor du startest, solltest du folgendes einplanen:
 | STL-Datein | ✅ Unten unter Downloads | Die genaue Maße wird zurzeit entwickelt, im Ordner "STL-3MF" findet ihr die Vorgänger-Datein von Shahada |
 | Gerber-Daten | ✅ Unten unter Downloads | Die PCB-Boards müssen von Leiterplattenherstellern produziert werden z.B. bei https://jlcpcb.com/ (max 5 Stück werden hergestellt, für einen Board machen sie keine Produktion) |
 
-Für weitere mögliche Bauteile seht ihr in der Bildergalerie.
+Für weitere mögliche Bauteile seht ihr im Ordner "Media".
 
 
 
