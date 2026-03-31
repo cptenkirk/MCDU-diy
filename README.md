@@ -41,11 +41,11 @@ Bevor du startest, solltest du folgendes einplanen:
 
 
 
-| Bauteil | Status | Anmerkung |
+| Bauteil | Status | Anmerkung und Beschreibung |
 | :--- | :--- | :--- |
 | **Raspberry Pi 3** | ✅ Vorhanden | Das Herzstück für Display und Logik |
 | **Display** | Empfohlen max 5 Zoll IPS | Details folgen. Dies ist das kritische Teil; es entscheidet maßgeblich über das 3D-Druck-Design. Beispiel: https://de.aliexpress.com/item/1005010562121937.html?spm=a2g0o.order_list.order_list_main.126.63c55c5fbFeYdC&gatewayAdapt=glo2deu
-| **Tasten-Matrix** | ⏳ In Planung | Details folgen (Taktile Schalter & Custom Caps) |
+| **Tasten-Matrix** | Taktile Schalter mit LED | Auch kritisch, Button-Größe müsste angepasst werden https://de.aliexpress.com/item/1005008121388807.html?spm=a2g0o.order_list.order_list_main.90.63c55c5fbFeYdC&gatewayAdapt=glo2deu | 
 
 
 ---
