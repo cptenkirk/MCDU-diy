@@ -13,7 +13,7 @@ In diesem Repository dokumentiere ich den Bau einer **FMC/CDU**, die maßgeblich
 
 Mein Ziel ist es, das Projekt genau zu analysieren und ein **eigenes Design** zu konstruieren, anstatt es nur 1:1 nachzubauen.
 
-Eine weitere empfohlene Community-Seite www.oshwlab.com 
+Eine weitere empfohlene Community-Seite für euch www.oshwlab.com 
 
 ---
 
