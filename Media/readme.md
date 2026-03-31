@@ -98,6 +98,7 @@
     </td>
   </tr>
 </table>
+
 <!-- Zeile 6 -->
 <tr>
     <td align="center">
@@ -111,7 +112,7 @@
     <td align="center" colspan="2">
       <b>PCB-Board-Back</b><br />
       <img src="https://github.com/user-attachments/assets/cfedf036-4ec8-4e54-ab2c-4ed31162b85e" width="160" /><br />
-      <sub>Nimmt nicht das gute qualitative Filament für das Prototyping, außer ihr habt keine Wahl.</sub>
+      <sub></sub>
     </td>
   </tr>
 </table>
