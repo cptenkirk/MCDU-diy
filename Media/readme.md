@@ -12,13 +12,13 @@
       <img src="https://github.com/user-attachments/assets/e5bde683-28ae-43d6-8679-a4bc64e6913d" width="160" />
     </td>
     <td align="center" width="25%">
-      <b>IPS Display Unit</b><br />
+      <b>IPS Display Unit XHL 5.0 IPS Panel<br />
       <img src="https://github.com/user-attachments/assets/8896fbfd-de5a-4530-bcca-6356f9b1428e" width="160" />
     </td>
-    <td align="center" width="25%">
+    <!-- <td align="center" width="25%">
       <b>XHL 5.0 IPS Panel</b><br />
       <img src="https://github.com/user-attachments/assets/2bdfdee4-fc8b-4461-9a9d-fd8b03018775" width="160" />
-    </td>
+    </td> -->
   </tr>
 
   <!-- Zeile 2: Interface & Power -->
